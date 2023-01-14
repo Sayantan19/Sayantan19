@@ -5,6 +5,7 @@
 - 📫 Here's how you can connect with me:
 -     - LinkedIn: https://www.linkedin.com/in/sayantan-bose-860791200/
 -     - Facebook: https://www.facebook.com/sayantan.bose.1428921 
+-     - Instagram: https://www.instagram.com/shaa_yon_ton/
 <!---
 Sayantan19/Sayantan19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

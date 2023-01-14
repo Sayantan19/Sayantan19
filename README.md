@@ -1,4 +1,4 @@
-- Hi, I’m @Sayantan19
+- Hi, I’m Sayantan Bose
 - I’m interested in anything and everything for now, since I am still exploring my avenues
 - I’m currently learning Full Stack development on MERN stack and the usual college stuff
 - I’m looking to collaborate on anything related to web development for now, cause that is something that I can do to a certain extent

@@ -1,11 +1,15 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" frameBorder="0" class="giphy-embed" />
+<div id="header" align="center" text="center">
+    <h1>Welcome to my profile 😃</h1>
 </div>
 
-## Welcome to my profile <img src=https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy-downsized.gif width="300" class="giphy-embed" align="right" />
-- Hi, I’m Sayantan Bose
-- Currently a 3rd Year Computer Science and Business Systems undergrad at Heritage Institute of Technology, Kolkata
-- I’m looking to collaborate on anything related to web development for now, cause that is something that I love to do.
+<img src=https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy-downsized.gif width="250" class="giphy-embed" align="right" />
+                                                                                                                             
+- Hi there! I’m Sayantan Bose. 👋
+- Currently a 3rd Year Computer Science and Business Systems undergrad at Heritage Institute of Technology, Kolkata.
+- I have worked on **MERN Stack** and **Flask/Python**.
+- Building **Web Applications** is something that I love to do!
+- I’m open to collaborate on anything related to **Web Development**. Hit me up if you need a Web Developer!
+- Check our my portfolio at https://sayantanbose.onrender.com/
 
 ![Profile views](https://komarev.com/ghpvc/?username=Sayantan19)
  <a href="https://github.com/Sayantan19?tab=followers"><img src="https://img.shields.io/github/followers/Sayantan19?label=Followers&style=social" alt="GitHub Badge"></a>

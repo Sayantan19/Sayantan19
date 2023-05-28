@@ -6,7 +6,7 @@
                                                                                                                              
 - Hi there! I’m Sayantan Bose. 👋
 - Currently a Final Year Computer Science and Business Systems undergrad at Heritage Institute of Technology, Kolkata.
-- I have worked on **MERN Stack** and **Flask/Python**.
+- I work on **MERN Stack** and **Flask/Python**.
 - Building **Web Applications** is something that I love to do!
 - I’m open to collaborate on anything related to **Web Development**. Hit me up if you need a Web Developer!
 - Check our my portfolio at https://sayantanbose.onrender.com/
